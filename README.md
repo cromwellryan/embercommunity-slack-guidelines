@@ -16,7 +16,6 @@ If and when a channel is deemed fit for archiving, we'll work with those who may
 We have the announcements channel if you want to share something big with the whole world.  In the case of zero-day issues, [Team Owners and Admins][team_members] can distribute notifications via `@everyone`, `@channel`, or `@group`.  Be respectful of the many timezones who will receive notifications.
 
 ### Code of Conduct
-Possibly model after Web Performance Slack Code of Conduct
-(RC) We now have 1315 members in general.  I'm not excited about what happens when someone is a jerk.  No CoC stops that, but it provides some guideposts to work with when it does.
+The EmberJS Community Slack has grown more than any of the creators might have hoped.  With that great community come the challenges of assuring folks feel comfortable and supported.  With those goals in mind we've adopted a [Code of Conduct](./CodeOfConduct.md).
 
 [team_members]: https://embercommunity.slack.com/team
