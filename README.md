@@ -8,6 +8,14 @@ The Ember community is prolific!  We want to support add-on creators, meetups an
 
 New channels can be requested by contacting one of the [team admins or owners][team_members] with the proposed name and topic description.  Generally, new channels are only created once a critical mass exists around the topic has been established.  We use things like [NPM downloads](https://www.npmjs.com/package/ember-data) and [Github Stars](https://github.com/emberjs/data), but we intend to use our best judgement.  Our end goal is to keep the signal-to-noise ratio high.
 
+Channel names follow a prefix convention to aid in discovery:
+- `-` Important, common channels for everyone
+- `e-`: Ember Addon channels.
+- `ec-`: Ember Core channels.
+- `ed-`: Ember-Data related channels.
+- `local-`: Regional channels, often for a local meetup group.
+- `topic-`: Topical channels, often for a related technology.
+
 Some short term initiatives such as Glimmer, Ember 2.0, EmberConf, etc., may also warrant a unique channel while relevant.  We'll account for those and lean on the voice of the community to judge their need.
 
 ### Pruning channels
